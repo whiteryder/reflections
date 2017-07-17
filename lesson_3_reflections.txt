@@ -21,7 +21,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Could use online storage, uploading/downloading all or portions of the code base
+    as zip files with date stamps.  Then use diff to find changes.  Quickier to learn,
+    but process would get to be a pain as code base got larger.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
